@@ -4,6 +4,8 @@
  */
 package loginframeapp;
 
+import za.ac.tut.ul.LoginFrame;
+
 /**
  *
  * @author Hefs Consulting
@@ -19,3 +21,4 @@ public class LoginFrameApp {
     }
     
 }
+
